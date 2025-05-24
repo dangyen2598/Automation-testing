@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng nhp tht biTn ng nhp hoc mt khu khng _09086b</name>
+   <tag></tag>
+   <elementGuidId>4cedf093-6aec-4722-8913-1ce752bba83f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tra cứu tỷ giá'])[2]/following::div[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.global-dialog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71453771-e4c8-47df-9d82-a6dc9e76d243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-dialog</value>
+      <webElementGuid>9e2a29f4-f60e-429c-a352-ee9839c0a055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập thất bạiTên đăng nhập hoặc mật khẩu không đúng. Mật khẩu của Bạn sẽ bị vô hiệu hóa nếu nhập sai 5 lần!Thử lạiĐặt lại mật khẩu</value>
+      <webElementGuid>e9775be4-dc05-4248-9f0b-5deca6d77a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;login-page&quot;]/app-root[1]/login-component[1]/app-global-dialog[1]/app-modal[1]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content-wrapper&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;global-dialog&quot;]</value>
+      <webElementGuid>b59e874d-f08d-4b96-bda1-64a0e2fc18dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tra cứu tỷ giá'])[2]/following::div[9]</value>
+      <webElementGuid>701a8b2a-07f0-4f3e-a0c6-1ff26c980bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm điểm giao dịch'])[2]/following::div[10]</value>
+      <webElementGuid>4b5db5c1-cb4b-474a-b984-42771286e12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-modal/div/div/div/div</value>
+      <webElementGuid>a1dcee38-0610-4313-a1fa-f1e0e9218031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đăng nhập thất bạiTên đăng nhập hoặc mật khẩu không đúng. Mật khẩu của Bạn sẽ bị vô hiệu hóa nếu nhập sai 5 lần!Thử lạiĐặt lại mật khẩu' or . = 'Đăng nhập thất bạiTên đăng nhập hoặc mật khẩu không đúng. Mật khẩu của Bạn sẽ bị vô hiệu hóa nếu nhập sai 5 lần!Thử lạiĐặt lại mật khẩu')]</value>
+      <webElementGuid>d02d2a23-1e69-46c0-9f95-ad22f2bc109d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

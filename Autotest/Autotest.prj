@@ -6,11 +6,12 @@
    <UUID>f0899f3c-aac0-4603-bd76-a48f41d79036</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/dangyen/Documents/AUTO/Automation-testing/Autotest/Autotest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
